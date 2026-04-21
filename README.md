@@ -16,4 +16,4 @@ Model diimplementasikan dalam bentuk GUI interaktif untuk mensimulasikan prediks
 
 Hasil menunjukkan bahwa dua model memprediksi pasien meninggal, sedangkan satu model memprediksi hidup. Perbedaan ini terjadi karena setiap algoritma memiliki cara belajar dan pengambilan keputusan yang berbeda terhadap data.
 
-**Catatan:** GUI dibuat menggunakan *ipywidgets*, sehingga hanya dapat dijalankan di Google Colab atau Jupyter Notebook. Tampilan GUI tidak muncul di GitHub dan hanya ditampilkan dalam bentuk screenshot.
+**Catatan:** GUI dibuat menggunakan *ipywidgets*, sehingga hanya dapat dijalankan di Google Colab atau Jupyter Notebook. Output hasil eksekusi (seperti tampilan GUI dan hasil prediksi) tidak ikut tersimpan atau ditampilkan di GitHub, sehingga hanya ditampilkan dalam bentuk screenshot
